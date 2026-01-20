@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/jamesblackman/Desktop/cpp tutorial/cpp0/main'
+relocations:     []
+...
